@@ -6,5 +6,4 @@
 # ------------------------
 **/*.png
 
-!/fftivc.config.zodioverwriter/*.png
-!/fftivc.asset.zoditexturepack/*.png
+!/fftivc.gameplay.harderstory/*.png
