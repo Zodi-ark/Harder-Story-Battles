@@ -2,7 +2,7 @@
   "ModId": "fftivc.gameplay.harderstory",
   "ModName": "Harder Story Battles",
   "ModAuthor": "Zodiark",
-  "ModVersion": "0.1.0",
+  "ModVersion": "0.2.0",
   "ModDescription": "Scales story battle enemy levels to stay ahead of you, equips them with level-appropriate gear, randomizes their abilities, and maxes their job levels. Best suited for NG\u002B.",
   "ModDll": "",
   "ModIcon": "preview.png",
